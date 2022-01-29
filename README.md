@@ -10,6 +10,10 @@ It is called as fast food restaurant.Good **ambience** ,delicious food and have 
     2. Continue onto University Dr
     3. Turn left onto US-59 N/US-71 BUS N,continue straight
     4. Turn right after McDonald's destination will be on the left.
+* Menu
+    * Chicken
+    * Sandwiches
+* Fries
 
 
 
