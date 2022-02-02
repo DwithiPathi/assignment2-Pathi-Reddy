@@ -15,4 +15,4 @@ It is called as fast food restaurant.Good **ambience** ,delicious food and have 
     * Sandwiches
 * Fries
 
-go to the next file [page](Aboutme.md)local to the repo.
+go to the next file [page](AboutMe.md)local to the repo.
