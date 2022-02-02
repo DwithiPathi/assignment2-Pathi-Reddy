@@ -11,5 +11,5 @@ This is the diagram of Ranveer Singh drawn by Dwithi ![Ranveer Sigh pencil sketc
 |Cricket|Illinios|$15|
 ------
 # Quotes
-> Your smile makes me smile ***Atticus***
-> Laugh louder, smile binger, love longer ***William Shakespeare***
+> Your smile makes me smile ***Atticus***.
+> Laugh louder, smile binger, love longer ***William Shakespeare***.
