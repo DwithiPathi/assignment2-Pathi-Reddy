@@ -9,4 +9,7 @@ This is the diagram of Ranveer Singh drawn by Dwithi ![Ranveer Sigh pencil sketc
 |Base Ball|Maryville|$25|
 |Basket Ball|kansas|$10|
 |Cricket|Illinios|$15|
-
+------
+# Quotes
+> Your smile makes me smile ***Atticus***
+> Laugh louder, smile binger, love longer ***William Shakespeare***
