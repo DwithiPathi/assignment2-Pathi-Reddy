@@ -44,7 +44,7 @@ Refer this link for more detail study<https://www.semanticscholar.org/paper/Stri
         hash_value = (hash_value + (c - 'a' + 1) * p_pow) % m;
         p_pow = (p_pow * p) % m;}
     return hash_value;
-}
+    }
 }
 ~~~
 Refer this link for more detail study<https://cp-algorithms.com/string/string-hashing.html>
