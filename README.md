@@ -32,7 +32,7 @@ go to the next file [page](Aboutme.md)local to the repo.
 ------
 # Code Fencing
 Data available in/via computers are often of enormous size, and thus, it is significantly important and necessary to invent timeand space-efficient methods to process them. Most of such data are, in fact, stored and manipulated as strings. String matching is most fundamental in string processing, where the problem is to examine whether or not a pattern string p occurs in a text string w. There are two cases to consider; p is fixed and w is flexible, and vise versa
-Refer this link for more detail study[StringProcessing](https://www.semanticscholar.org/paper/String-Processing-Algorithms-%E7%A8%B2%E6%B0%B8-Inenaga/aa555b049626f76b43b31550102a0923c4fc88a7)
+Refer this link for more detail study[StringProcessing]<https://www.semanticscholar.org/paper/String-Processing-Algorithms-%E7%A8%B2%E6%B0%B8-Inenaga/aa555b049626f76b43b31550102a0923c4fc88a7>
 ~~~
     {
         long long compute_hash(string const& s) {
@@ -49,4 +49,4 @@ Refer this link for more detail study[StringProcessing](https://www.semanticscho
 
     }
 ~~~
-Refer this link for more detail study[code](https://cp-algorithms.com/string/string-hashing.html)
+Refer this link for more detail study[code]<https://cp-algorithms.com/string/string-hashing.html>
